@@ -1,4 +1,4 @@
-# airbnbclone
+# Airbnb Clone
 🏡 Airbnb Clone
 This is a full-stack Airbnb clone web application built to replicate the core functionalities of Airbnb. The project showcases modern web development practices using authentication, dynamic listings from a database, RESTful APIs, and more.
 
